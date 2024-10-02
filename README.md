@@ -1,3 +1,3 @@
-# Merge-conflicts
+# Merge-conflicts REMOTE
 
 Wild code school
